@@ -1,0 +1,30 @@
+UIUX Design Online Zoom Class
+----------------------------------
+Time:
+Saturday & Sunday
+7 PM - 8:30 PM
+----------------------------
+Start Date:
+March 16, 2024 (Saturday)  စဖို့ ရှိပါတယ်။
+-----------------------------
+Course Fee; 150,000 Kyats
+Duration: 10 Weeks
+Course Contents:
+HTML5
+CSS
+Photoshop,
+Figma
+Bootstrap
+Practical Projects
+Web Application Deployment Online
+Course Description:
+UIUX Design ကို စိတ်ဝင်စားသူမည်သူမဆိုတက်ရောက်နိုင်ပါတယ်။ Simple Web Foundation lessons တွေကို HTML, CSS နဲ့ လေ့ကျင့်ရမှာ ဖြစ်ပါတယ်။ Advanced Web Interactive function တွေကို JavaScript ES-6, JQuery နဲ့ ရေးဆွဲလေ့ကျင့် ရမှာ ဖြစ်ပါတယ်။ Basic App Design layout တွေကို Photoshop နဲ့ ရေးဆွဲရမှာ ဖြစ်ပြီး advanced App Layout Design တွေကို Figma application နဲ့ ရေးဆွဲကြရမှာ ဖြစ်ပါတယ်။ ကျောင်းသားတိုင်း hands-on mini web project ၂ ခု ဆရာနဲ့ အတူ ရေးဆွဲရမှာ ဖြစ်ပြီး Student Web Project တစ်ခု ကို ရေးဆွဲရမှာ ဖြစ်ပါတယ်။ Version Control System အတွက် Git ကို လေ့လာရမှာ ဖြစ်ပြီး မိမိကိုယ်တိုင်ရေးသားထားသော web appliation များကို free web hosting ပေါ်မှာ online ပေါ်လွင့်တင် deployment ပြုလုပ်ရမှာ ဖြစ်ပါတယ်။ ထို့ကြောင့် Web Front end UIUX design နဲ့ လုပ်ငန်းခွင်ဝင်ဖို့ အဆင်သင့်ဖြစ်စေရန် ကျောင်းသားတိုင်းသည် မဖြစ်မနေ mini web app design ၃ ခု ရေးဆွဲကြရမှာ ဖြစ်ပါတယ်။
+========================================
+
+UIUX ကျောင်းသားတွေရဲ့ project samples
+
+1. http://sulatt1.42web.io
+2. http://sandarkhinportfolio.42web.io
+
+
+
